@@ -1,0 +1,18 @@
+GET: All Customers
+/api/customers
+
+GET: One Customer
+/api/customers/:id
+
+POST: Create Customer
+/api/customers
+
+PUT: Update Customer
+/api/customers/:id
+
+DELETE: Remove Customer
+/api/customers/:id
+
+GET: Search Customers
+/api/customers?[filters]
+
